@@ -1,7 +1,7 @@
 package com.alexosenov.coronavirus;
 
 import com.alexosenov.coronavirus.model.CountryData;
-import com.alexosenov.coronavirus.model.service.URLService;
+import com.alexosenov.coronavirus.service.URLService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
